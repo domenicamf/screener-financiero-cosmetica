@@ -52,14 +52,14 @@ señales de riesgo?**
 
 ## Cómo ejecutarlo
 
-**En Google Colab (recomendado):** abrir `Taller_1.ipynb` en Colab y ejecutar todas las celdas
+**En Google Colab (recomendado):** abrir `Taller_1_Doménica_Mercado_Fernández.ipynb` en Colab y ejecutar todas las celdas
 (*Entorno de ejecución → Ejecutar todo*). La sección 11 genera un enlace temporal al dashboard.
 
 **En un computador local:**
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook Taller_1.ipynb
+jupyter notebook Taller_1_Doménica_Mercado_Fernández.ipynb
 # después de ejecutar el notebook, para abrir el dashboard:
 streamlit run app_dashboard.py
 ```
@@ -68,7 +68,7 @@ streamlit run app_dashboard.py
 
 | Archivo | Contenido |
 |---|---|
-| `Taller_1.ipynb` | Análisis completo, con tablas, gráficos e interpretaciones |
+| `Taller_1_Doménica_Mercado_Fernández.ipynb` | Análisis completo, con tablas, gráficos e interpretaciones |
 | `requirements.txt` | Librerías necesarias |
 | `README.md` | Este resumen |
 
